@@ -7,6 +7,7 @@ package nguyenbuiminhhieu_59130727_baitapjava1234;
 import baitap1.Baitap1Main;
 import baitap2.Baitap2Main;
 import baitap3.Baitap3Main;
+import baitap4.Baitap4Main;
 /**
  *
  * @author Nguyen Bui Minh Hieu
@@ -25,6 +26,9 @@ public class NguyenBuiMinhHieu_59130727_BaitapJava1234 {
         
         System.out.println("\nBai 3:");
         Baitap3Main.main(args);
+        
+        System.out.println("\nBai 4:");
+        Baitap4Main.main(args);
     }
     
 }
