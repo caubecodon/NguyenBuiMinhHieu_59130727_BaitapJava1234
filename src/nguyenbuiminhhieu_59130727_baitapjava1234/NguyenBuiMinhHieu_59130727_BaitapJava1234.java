@@ -6,9 +6,10 @@
 package nguyenbuiminhhieu_59130727_baitapjava1234;
 import baitap1.Baitap1Main;
 import baitap2.Baitap2Main;
+import baitap3.Baitap3Main;
 /**
  *
- * @author nguye
+ * @author Nguyen Bui Minh Hieu
  */
 public class NguyenBuiMinhHieu_59130727_BaitapJava1234 {
 
@@ -21,6 +22,9 @@ public class NguyenBuiMinhHieu_59130727_BaitapJava1234 {
         
         System.out.println("\nBai 2:");
         Baitap2Main.main(args);
+        
+        System.out.println("\nBai 3:");
+        Baitap3Main.main(args);
     }
     
 }
